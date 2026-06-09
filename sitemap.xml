@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://homeprefilter.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://homeprefilter.com/best-home-pre-filters.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://homeprefilter.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://homeprefilter.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://homeprefilter.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://homeprefilter.com/homeprefilter-buying-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://homeprefilter.com/homeprefilter-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://homeprefilter.com/homeprefilter-tested-ranked-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://homeprefilter.com/truth-about-homeprefilter-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://homeprefilter.com/what-we-look-for-homeprefilter-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://homeprefilter.com/homeprefilter-market-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://homeprefilter.com/homeprefilter-what-wed-buy-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://homeprefilter.com/homeprefilter-buyers-handbook-2026.html</loc><lastmod>2026-05-26</lastmod></url>
-  <url><loc>https://homeprefilter.com/best-homeprefilter-2026.html</loc><lastmod>2026-05-28</lastmod></url>
-  <url><loc>https://homeprefilter.com/homeprefilter-quality-vs-marketing.html</loc><lastmod>2026-05-30</lastmod></url>
-  <url><loc>https://homeprefilter.com/homeprefilter-what-buyers-need-2026.html</loc><lastmod>2026-06-01</lastmod></url>
-  <url><loc>https://homeprefilter.com/homeprefilter-practical-guide-2026.html</loc><lastmod>2026-06-05</lastmod></url>
-  <url><loc>https://homeprefilter.com/homeprefilter-compared-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://homeprefilter.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
